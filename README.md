@@ -7,4 +7,6 @@ Core questions of this reasearch:
 * How does people feel about the Law?
 * What actions will they do in response to the Law?
 
-Facing unlabelled data available on Kaggle (HK_df), my first approach was to adopt unsupervised learning. However, considering the incompetance of the data set, I later switched to using SentimentIntensityAnalyzer provided by Vader.
+Log:
+24/9: Facing unlabelled data available on Kaggle (HK_df), my first approach was to adopt unsupervised learning. However, due to the lack of online resource on supervised sentiment analysis, I turned to SentimentIntensityAnalyzer provided by Vader.
+25/9: Although SentimentIntensityAnalyzer could provide sentiment scores, plotting the results on a graph is meaningless because the original data set has only date but no time. Also the tweets concentrate on a few dates only, making it impossible for me to draw conclusions. Now I consider applying for tweeter developer account for the use of tweepy.
