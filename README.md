@@ -13,3 +13,7 @@ Log:
 25/9: Although SentimentIntensityAnalyzer could provide sentiment scores, plotting the results on a graph is cannot give much insights because the original data set has only date but no time; the tweets also concentrate on a few dates only. Now I consider applying for tweeter developer account for the use of tweepy.
 
 27/9: Since my Twitter developer account got approved, I started developing another solution using the Twitter RESTful API.
+
+Blibiography:
+* This Is How Twitter Sees The World : Sentiment Analysis Part One (Ronald Wahome)
+* Sentiment Analysis of Anthem’s Game Launch in Python (William Masse)
