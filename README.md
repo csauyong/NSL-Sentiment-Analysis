@@ -17,7 +17,15 @@ Concluding the project, I do not think that I have met my expectation:
 I will try to do better in the following aspects:
 * Find ways to work better with unlabelled data using unsupervised learning.
 * Get my own dataset using Twitter's developer API.
+* Use Word2Vec K-Means clustering instead of pretrained models.
+
+Another solution which:
+* Collects data with tweepy
+* Creates embedding with word2vec
+* Clusters with K-Means clustering
+is currently under development.
 
 ## Blibiography
 * This Is How Twitter Sees The World : Sentiment Analysis (Ronald Wahome)
 * Sentiment Analysis of Anthem’s Game Launch in Python (William Masse)
+* Unsupervised Sentiment Analysis (Rafal Wojcik)
